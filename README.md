@@ -6,9 +6,9 @@ Ele foi desenvolvido como atividade avaliativa da disciplina de Logs.
 
 ## Desenvolvedores:
 ### Anderson Luiz Karl - 2417571
-### -
-### -
-### - 
+### George Ferreira de Alencar - 2326888
+### Maria Elisa Gomes de Matos - 2417598
+### Saynarah Cruz Nabuco - 2417049
 
 ## Objetivos
 
